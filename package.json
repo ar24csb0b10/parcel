@@ -1,5 +1,6 @@
 {
- "homepage": ".",
+ "homepage": "https://ar24csb0b10.github.io/SwiftParcel.DT",
+
  "devDependencies": {
     "gh-pages": "^6.3.0"
   },
