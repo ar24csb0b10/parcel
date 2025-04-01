@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.401a3fc4.css",
+    "main.js": "/static/js/main.883f0a4f.js",
+    "static/media/nit-parcel-logo.png": "/static/media/nit-parcel-logo.49ae57f0d6eb358dd8fd.png",
+    "index.html": "/index.html",
+    "main.401a3fc4.css.map": "/static/css/main.401a3fc4.css.map",
+    "main.883f0a4f.js.map": "/static/js/main.883f0a4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.401a3fc4.css",
+    "static/js/main.883f0a4f.js"
+  ]
+}
